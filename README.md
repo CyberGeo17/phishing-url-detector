@@ -1,5 +1,5 @@
 # phishing-url-detector
-A Python URL Detector program i made that detects phishing URLs using machine learning algorithms 
+A Python URL Detector program I made that detects phishing URLs using machine learning algorithms 
 
 This project is a Python program that uses a Random Forest classifier to detect phishing URLs. It extracts features from URLs and classifies them as either phishing or legitimate.
 
